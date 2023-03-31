@@ -1,1 +1,1 @@
-assets for launcher
+assets
